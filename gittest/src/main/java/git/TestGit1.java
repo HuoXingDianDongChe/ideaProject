@@ -9,4 +9,7 @@ public class TestGit1 {
         System.out.println("5555");
         System.out.println("6666");
     }
+    public void test(){
+        System.out.println("7777");
+    }
 }
